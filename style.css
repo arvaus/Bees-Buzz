@@ -1,0 +1,33 @@
+h2{
+    color:pink;
+}
+
+h1{
+    color:pink;
+}
+p{
+    color:pink
+    
+    }
+body{
+    background-color:pink;
+}
+div {
+  background-color: pink;
+  color: pink;
+}
+/*sets up fonts*/
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+<style>
+body{
+    font-family: Tahoma, Verdana, sans-serif;
+}
+</style>
+</head>
+/*end of fonts*/
+li {
+  display: inline;
+}
+
+    
